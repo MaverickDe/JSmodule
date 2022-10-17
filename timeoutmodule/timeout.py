@@ -63,7 +63,7 @@ class setInterval():
         setInterval_thread[str(self.id)].start()
 
 
-def clearInterval(value: setTimeout):
+def clearInterval(value: setInterval):
 
     del setInterval_thread[str(value.id)]
 

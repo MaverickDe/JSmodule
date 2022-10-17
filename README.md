@@ -1,18 +1,23 @@
 ## Description
-``` bash
+![1665855799150](https://user-images.githubusercontent.com/100746581/196001176-f9ea26de-941b-461e-8812-081d50c28e35.png)
+``` 
  
+
 Creating javascripts built  methods and functions in python
  
  
-This is an open source project , it which tries shorten python code syntax and implement javascript syntax
+This is an open source project , 
+it  shortens python code syntax and also implement it using javascript syntax
  
-The project is divided into modules . Ech modules for a specific functions
+The project is divided into modules . Each modules for a specific functions
  
  
+```
 ```
 Need for the project
 ```
-Python is a robust programming language with batteries included, therefore , to perform some regular task , you need to import different modules every subsequent time you work on a project  . If you are coming for the javascript environment, yo will understand perfectly what i am saying
+
+Python is a robust programming language with batteries included, therefore , to perform some regular task , you need to import different modules every subsequent time you work on a project  . If you are coming for the javascript environment, you will understand perfectly what i am saying
  
 For example in javascript, setting a setTimeout function is pretty straight forward, you don't need to import any module not to talk of two modules unlike python
  
@@ -20,7 +25,10 @@ Coming from the javascript , mastering all this modules in python is a quite a t
  
 ```
  
-This is an open source project , hence the code can be reviewed , changed and if the change is worth it, it will be implemented
+This is an open source project , hence the code can be reviewed , changed or modified.
+
+You can and a pull request to contribute to this project .
+if the change you tried to implement  is significant, it will be implemented
  
 ```
  
@@ -41,14 +49,28 @@ To Modify a code
 State the reason for modification and the benefit incurred after modification
  
 ```
-Functions Existing in the Project
+Functions and Modules Existing in the Project
  
 ```
-    timeoutMdule
-. SetTimeout
-. clearTimeout
-. Setinterval
-. clearInterval
+   ## timeoutModule
+   
+ . SetTimeout
+ 
+ . clearTimeout
+ 
+ . Setinterval
+ 
+ . clearInterval
+
+   ## fetchModule
+   
+ . fetch
+
+   ## switchModule
+   
+ . switch
+ 
+ 
  
  
  
