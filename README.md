@@ -61,6 +61,10 @@ Functions and Modules Existing in the Project
  . Setinterval
  
  . clearInterval
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9004ffa13954cbac640c625885864288b30cb537
 
    ## fetchModule
    
