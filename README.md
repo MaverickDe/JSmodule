@@ -71,7 +71,7 @@ Functions and Modules Existing in the Project
  . switch
  
    ## ArrayModule
-   inhering the list functions and adding more functionalities to it
+   inheriting the list functions and adding more functionalities to it
 
  . split
 
