@@ -1,5 +1,5 @@
 
-# inhering the list Module and adding more functions
+# inheriting the list Module and adding more functions
 
 
 

@@ -61,10 +61,6 @@ Functions and Modules Existing in the Project
  . Setinterval
  
  . clearInterval
-<<<<<<< HEAD
-=======
-
->>>>>>> 9004ffa13954cbac640c625885864288b30cb537
 
    ## fetchModule
    
@@ -76,7 +72,7 @@ Functions and Modules Existing in the Project
  
    ## ArrayModule
    inhering the list functions and adding more functionalities to it
-   
+
  . split
 
  . splice
