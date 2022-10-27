@@ -80,7 +80,23 @@ Functions and Modules Existing in the Project
  
  
  
- 
+
+
+```
+...
+```
+Contributions are what make the Open Source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+If you have a suggestion that would make this better, please fork the repo and create a Pull Request. You can also open an issue with the tag enhancement.
+
+Don't forget to give the project a star ⭐!
+
+1. Fork the project
+2. Clone the repository
+3. Create your feature branch
+4. Push to your branch
+5. Open a Pull Request
+6. Many thanks!!
  
  
  
